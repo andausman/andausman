@@ -54,9 +54,6 @@ I thrive at the intersection of **technology, innovation, and community impact**
 
 ---
 
-## 📈 GitHub Contributions
-![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=andausman&theme=github)
-
 
 
 Thanks for stopping by! Let’s connect and build impactful solutions together. 🚀
