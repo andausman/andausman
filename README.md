@@ -2,7 +2,7 @@
 
 💗 **Loves building and growing products**  
 🌍 **Passionate about Multimodal AI and AI for Social Good**  
-🎓 **B.Sc. (Hons) in Computer Science** from Federal University Lokoja, Nigeria  
+🎓 **B.Sc. (Hons) in Computer Science**  
 
 I thrive at the intersection of **technology, innovation, and community impact**, driven by a mission to leverage AI for business and social transformation.  
 
