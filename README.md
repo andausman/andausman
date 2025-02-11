@@ -9,9 +9,7 @@ I thrive at the intersection of **technology, innovation, and community impact**
 ---
 
 ## 🚀 About Me  
-
-- 🌟 **Growth Manager** at [Condia](https://thecondia.com): Drove a **400% user base increase** and led a successful rebrand.  
-- 🔭 **Mentor & Trainer** at **3MTT**: Guiding the next generation of Nigerian talents in **Product Management** and **Software QA**.  
+ 
 - 🏆 Developed an **ensemble career recommendation system** to guide Nigerian secondary school students based on their academic performance.  
 - 💡 Actively exploring **AI/ML** to unlock its transformative potential in **Business** and **social good**.  
 
