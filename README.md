@@ -1,8 +1,8 @@
 # Hi, I'm **Anda Usman**! 👋  
 
 💗 **Loves building and growing products**  
-🌍 **Passionate about Multimodal AI and AI for Social Good**  
-🎓 **B.Sc. (Hons) in Computer Science**  
+🌍 **Passionate about Applied AI**  
+🎓 **B.Sc. (Hons) In Computer Science**  
 
 I thrive at the intersection of **technology, innovation, and community impact**, driven by a mission to leverage AI for business and social transformation.  
 
@@ -10,7 +10,7 @@ I thrive at the intersection of **technology, innovation, and community impact**
 
 ## 🚀 About Me  
  
-- 🏆 Developed an **ensemble career recommendation system** to guide Nigerian secondary school students based on their academic performance.  
+- 🏆 Developed an **ensemble career recommendation system** to guide  secondary school students based on their academic performance.  
 - 💡 Actively exploring **AI/ML** to unlock its transformative potential in **Business** and **social good**.  
 
 ---
@@ -37,8 +37,7 @@ I thrive at the intersection of **technology, innovation, and community impact**
 
 ## 🌱 Current Focus  
 
-- **Multimodal AI and NLP for African Languages**: Exploring AI's potential to support local languages and cultures.  
-- **Recommender Systems**: Enhancing personalized recommendation models, including the career path recommender for students.  
+- **Recommender Systems**: Enhancing personalised recommendation models, including the career path recommender for students.  
 - **AI for Business & Social Good**: Applying AI to solve societal challenges and drive business growth.  
 
 ---
@@ -47,7 +46,7 @@ I thrive at the intersection of **technology, innovation, and community impact**
 
 - 📧 **Email:** [anda@andausman.com](mailto:anda@andausman.com)  
 - 🌐 **Website:** [andausman.com](https://andausman.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/andausman](https://linkedin.com/in/andausman)  
+- 💼 **LinkedIn:** [linkedin.com/in/andausman](https://linkedin.com/in/anda-usman-ai)  
 - 🐦 **Twitter:** [@andausman_](https://twitter.com/andausman_)  
 
 ---
