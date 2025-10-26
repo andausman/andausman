@@ -1,8 +1,7 @@
-# Hi, I'm **Anda Usman**! 👋  
+# Hi, I'm **Anda Usman**!  
 
-💗 **Loves building and growing products**  
-🌍 **Passionate about Applied AI**  
-🎓 **B.Sc. (Hons) In Computer Science**  
+ **Loves building and growing products**  
+ **Passionate about Applied AI**  
 
 I thrive at the intersection of **technology, innovation, and community impact**, driven by a mission to leverage AI for business and social transformation.  
 
@@ -11,36 +10,29 @@ I thrive at the intersection of **technology, innovation, and community impact**
 ## 🚀 About Me  
  
 - 🏆 Developed an **ensemble career recommendation system** to guide  secondary school students based on their academic performance.  
-- 💡 Actively exploring **AI/ML** to unlock its transformative potential in **Business** and **social good**.  
+- 💡 Actively using**AI/ML** to unlock its transformative potential in **Business** and **social good**.
+- Currently building & shipping at Andalabx.com
+- On a mission to help 1 million businesses adopt AI.
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Python  
-- **Frameworks:** Django  
-- **Databases:** PostgreSQL  
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, NodeJS, React/NextJS, Handlebars.js
+- **Databases:** PostgreSQL,  
 
 ---
 
-## 🏆 Achievements  
-
-- 🎖️ Presented my work on **Career Guidance Using Ensemble Machine Learning** at the **Data Science Nigeria AI Bootcamp 2024**.  
-- 🏅 Honored by **Nigeria Association of Computing Students (NACOS)** and **Student Representative Council (FULokoja)**.  
-- 🌍 Member of global tech communities, including:  
-  - **Association for Computing Machinery (ACM)**  
-  - **Open Source Community Africa (OSCA)**  
-  - **Data Science Nigeria**  
-- 🏅 Earned a **Growth Engineering Certification** from **alGrowthm Academy (2024)**.  
 
 ---
 
-## 🌱 Current Focus  
+##  Current Focus  
 
-- **Recommender Systems**: Enhancing personalised recommendation models, including the career path recommender for students.  
-- **AI for Business & Social Good**: Applying AI to solve societal challenges and drive business growth.  
+- **AI for Business & Social Good**: Applying AI to solve societal challenges and drive business growth. 
+- **Centering African Data**: On a mission to curate, clean and centre 10 million African datasets by 2030.
 
----
+- 
 
 ## 📬 Get in Touch  
 
