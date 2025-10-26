@@ -9,7 +9,7 @@ I thrive at the intersection of **technology, innovation, and community impact**
  
 - Developed an **ensemble career recommendation system** to guide  secondary school students based on their academic performance.  
 - Actively using**AI/ML** to unlock its transformative potential in **Business** and **social good**.
-- Currently building & shipping at Andalabx.com
+- Currently building & shipping at  [AndaLabX](https://andalabx.com)
 - On a mission to help 1 million businesses adopt AI.
 
 
@@ -23,7 +23,7 @@ I thrive at the intersection of **technology, innovation, and community impact**
 ##  Current Focus  
 
 - **AI for Business & Social Good**: Applying AI to solve societal challenges and drive business growth. 
-- **Centering African Data**: On a mission to curate, clean and centre 10 million African datasets by 2030 through datum.africa.
+- **Centering African Data**: On a mission to curate, clean and centre 10 million African datasets by 2030 through [Datum Africa](https://datum.africa).
 
 
 ##  Get in Touch  
